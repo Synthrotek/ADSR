@@ -11,3 +11,6 @@ Release 4ms-2 seconds (up to ~ 4 seconds with CV)
 Depth: 40mm
 HP: 4
 Current Draw: +12: 30mA, -12: n/a, +5: n/a
+
+
+The source code was compiled using atmel studio 6
