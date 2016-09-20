@@ -1,0 +1,39 @@
+RefDes,Name,Value,Quantity,Vendor,Vendor Part No.
+C1,Cap Ceramic Radial - 18pF,18pF,1,Mouser,581-SR152A180JAA 
+C2,Cap Ceramic Radial - 18pF,18pF,1,Mouser,581-SR152A180JAA 
+C3,Cap Electrolytic Radial - 22uF,22uF 25V,1,Mouser,"
+647-UVZ1E220MDD1TD
+
+647-UVZ1E220MDD1TD
+647-UVZ1E220MDD1TD"
+C4,Cap Ceramic Radial - .1uF,.1uF,1,Mouser,80-C316C104M5UCA7301
+C5,Cap Ceramic Radial - .1uF,.1uF,1,Mouser,80-C316C104M5UCA7301
+D1,BAT85,,1,,
+D2,BAT85,,1,,
+D3,BAT85,,1,,
+D4,BAT85,,1,,
+D5,BAT85,,1,,
+D6,BAT85,,1,,
+D7,BAT85,,1,,
+P1,Header RA - 10P (2x5) Protruding Left,,1,Mouser,538-10-89-4102
+P2,Header RA - 10P (2x5) Protruding Left,,1,Mouser,538-10-89-4102
+P4,Header 4-Wall - 10 Pin,,1,Mouser,517-30310-6002
+R1,Resistor - 1/4 Watt,2K,1,,
+R2,Resistor - 1/4 Watt,1K,1,,
+R3,Resistor - 1/4 Watt,100K,1,,
+R4,Resistor - 1/4 Watt,100K,1,,
+R5,Resistor - 1/4 Watt,20K,1,,
+R6,Resistor - 1/4 Watt,1K,1,,
+R7,Resistor - 1/4 Watt,2K,1,,
+R8,Resistor - 1/4 Watt,1K,1,,
+R9,Resistor - 1/4 Watt,2K,1,,
+R10,Resistor - 1/4 Watt,100K,1,,
+R11,Resistor - 1/4 Watt,1R0,1,,
+R12,Resistor - 1/4 Watt,2K,1,,
+R13,Resistor - 1/4 Watt,1K,1,,
+R14,Resistor - 1/4 Watt,1K,1,,
+U1,ATMEGA48_PDIP,,1,Mouser,556-ATMEGA88A-PU
+U2,74LS14N,,1,,
+U3,MCP4921,DAC,1,Mouser,579-MCP4921-E/P
+VR1,78L05,,1,Mouser,512-MC78L05ACP
+X1,Crystal - 20MHZ,20MHZ,1,Mouser,815-ABL-20-B2
