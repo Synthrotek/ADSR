@@ -8,7 +8,7 @@ The ADSR is Open Hardware, all hardware and software design in that project is C
 
 Synthrotek is trademarked, and should not be used on any of works you create from these files.
 
-We ask that if you want to re-use all or part of the files provided on github that you change the name of the product to something else, and that you support the new product yourself. We can not be held liable for any derivitive works.
+We ask that if you want to re-use all or part of the files provided on github that you change the name of the product to something else, and remove any Synthrotek logos or names. Please do not contact Synthrotek for any support on the derivitive works. We can not be held liable for any derivitive works.
 
 ##About the ADSR
 
